@@ -27,6 +27,6 @@ module.exports = {
         })
     ],
     externals: {
-        reactcss: 'ReactCSS'
+        reactcss: 'reactcss'
     }
 };
